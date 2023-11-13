@@ -4,3 +4,5 @@ out/production/Project/.idea/misc.xml
 *.class
 *.class
 *.xml
+.idea/*
+.idea
