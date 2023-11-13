@@ -1,6 +1,7 @@
 import java.util.*;
 public class Project {
     public static void main(String args[]) {
+        Person I = new Person;
     }
 }
 interface IamHuman{
